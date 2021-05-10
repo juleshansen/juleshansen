@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt="banner" src="img/banner.jpeg" align="center">
+<p align="center">
+    <a href="https://www.linkedin.com/in/jules-hansen">
+        <img alt="LinkedIn" src="img/linked-in.png" width=20 style="vertical-align:top">
+        LinkedIn
+        </a>
+</p>
