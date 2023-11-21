@@ -7,4 +7,5 @@
         <img alt="LinkedIn" src="img/linked-in.png" width=20 style="vertical-align:top">
         LinkedIn
         </a>
+    <a rel="me" href="https://mastodon.social/@juleshansen">Mastodon</a>
 </p>
